@@ -113,6 +113,8 @@ Atlas VPN的限制：
 * 免费账号每月限10GB流量。
 * 付费用户无流量限制，可连接更多国家节点。
 
+注意：Atlas VPN无法在中国使用，建议大家优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a>
+
 ****
 
 ### 2，PrivadoVPN
