@@ -146,6 +146,8 @@ PrivadoVPN的限制：
 * 免费账户每30天限10GB高速流量，用完后无限低速。
 * 付费用户无流量限制，并可同时连接最多10台设备。
 
+<p align="center">注意：PrivadoVPN无法在中国使用，建议国内用户优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a></p>
+
 ****
 
 ### 3，ProtonVPN
@@ -179,6 +181,8 @@ ProtonVPN的限制：
 
 * 免费账号不限流量，但只能单设备使用，服务器选择有限。
 * 付费用户可以解锁更多节点，并支持多设备同时在线。
+
+<p align="center">注意：ProtonVPN无法在中国使用，建议国内用户优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a></p>
 
 ****
 
@@ -215,6 +219,8 @@ Hotspot Shield的限制：
 * 免费用户每天限500MB流量，超出后需等到次日重置。
 * 付费用户流量不限，最多可同时连接5台设备，并可选择80多个国家的服务器节点。
 
+<p align="center">注意：Hotspot Shield无法在中国使用，建议国内用户优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a></p>
+
 ****
 
 ### 5，Windscribe
@@ -247,6 +253,8 @@ Windscribe的限制：
 
 * 免费用户每月最多10GB流量，可选11个国家的节点，设备数量不限。
 * 付费用户流量不限，可选择更多节点和自定义套餐，支持解锁流媒体和高级拦截功能。
+
+<p align="center">注意：Windscribe无法在中国使用，建议国内用户优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a></p>
 
 ****
 
@@ -286,6 +294,8 @@ Hide.me的限制：
 * 免费版无广告，无需信用卡注册
 * 升级为付费版后可获得不限流量、更多服务器以及流媒体解锁等功能
 
+<p align="center">注意：Hide.me无法在中国使用，建议国内用户优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a></p>
+
 ****
 
 ### 7，Tunnelbear
@@ -324,6 +334,8 @@ TunnelBear的限制：
 * 免费版无广告，无需复杂注册流程
 * 升级到付费版后可获得更多流量、更快速度和流媒体解锁等功能
 
+<p align="center">注意：TunnelBear无法在中国使用，建议国内用户优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a></p>
+
 ****
 
 ### 8，VPN Gate
@@ -356,6 +368,8 @@ VPN Gate的限制：
 * 免费用户不限流量，可访问全球各地志愿者节点
 * 不保证所有节点可用或速度理想
 * 更适合VPN学习、测试和基础使用，不建议长期依赖或传输敏感信息
+
+<p align="center">注意：VPN Gate无法在中国使用，建议国内用户优选：<a href="https://bit.ly/eps-vpn">ExpressVPN(30天免费试用)</a></p>
 
 ****
 
