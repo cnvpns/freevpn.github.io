@@ -530,3 +530,4 @@ PureVPN在解锁流媒体方面同样表现出色。像Hulu、BBC iPlayer这些�
 * <a href="https://github.com/cnvpns/intochina.github.io">翻墙回国VPN</a>：2025年最好用的国外翻墙回国内VPN推荐！
 * <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？
 * <a href="https://github.com/cnvpns/telegram.github.io">Telegram注册</a>：如何注册电报？Telegram收不到验证码怎么办？
+* <a href="https://github.com/cnvpns/tiktok.github.io">TikTok教程</a>：如何注册TikTok帐号？如何购买TikTok帐号？
