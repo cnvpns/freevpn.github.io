@@ -1,6 +1,6 @@
 # 2025最新免费VPN推荐：中国可用，真正免费，安全可靠
 
-<p align="center">最近更新：2025年10月13日</p>
+<p align="center">最近更新：2025年11月23日</p>
 
 由于GFW（防火长城）的封锁和限制，中国大陆用户如果想访问Google、YouTube、Netflix、ChatGPT等海外热门网站，就必须先翻墙。如果你在日常工作、学习或娱乐中经常需要翻墙，那么我们建议你直接选择一款安全又稳定的付费VPN；如果你只是偶尔需要翻一下墙，那么也可以考虑试试本文推荐的免费VPN。
 
@@ -531,3 +531,4 @@ PureVPN在解锁流媒体方面同样表现出色。像Hulu、BBC iPlayer这些�
 * <a href="https://github.com/cnvpns/expressvpn.github.io">ExpressVPN评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？
 * <a href="https://github.com/cnvpns/telegram.github.io">Telegram注册</a>：如何注册电报？Telegram收不到验证码怎么办？
 * <a href="https://github.com/cnvpns/tiktok.github.io">TikTok教程</a>：如何注册TikTok帐号？如何购买TikTok帐号？
+* <a href="https://github.com/cnvpns/appleid.github.io">苹果ID购买</a>：2025年最新海外苹果 Apple ID购买/注册教程！
